@@ -60,5 +60,5 @@ Os dados de luminosidade são enviados via protocolo MQTT para um broker públic
 
 ## Artigo
 
-O artigo completo está disponível em:  
+O artigo completo está disponível em:  https://github.com/GiovanaPalhares/ads-mckz-iot-iluminacao-inteligente/blob/main/Artigo%20projeto%20de%20IoT-final-v3.pdf
 Vídeo de execução: https://youtu.be/hMxoeX_-jQQ 
