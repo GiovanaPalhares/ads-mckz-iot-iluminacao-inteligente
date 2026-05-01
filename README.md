@@ -30,7 +30,8 @@ Os dados de luminosidade são enviados via protocolo MQTT para um broker públic
 
 - **Broker:** broker.hivemq.com  
 - **Porta:** 1883  
-- **Tópico:** `iluminacao/luminosidade`  
+- **Tópico:** `iluminacao/luminosidade` e  `iluminacao/status`
+<img width="1461" height="872" alt="Screenshot 2026-05-01 at 18 50 11" src="https://github.com/user-attachments/assets/fdd35e1f-8610-482c-88eb-5e7dc3e5f43c" />
 
 
 ## Tecnologias utilizadas
@@ -60,3 +61,4 @@ Os dados de luminosidade são enviados via protocolo MQTT para um broker públic
 ## Artigo
 
 O artigo completo está disponível em:  
+Vídeo de execução: https://youtu.be/hMxoeX_-jQQ 
